@@ -1,0 +1,5 @@
+TactileNav/audio/vosk/model/
+venv/
+.venv/
+*.mp4
+*.zip
