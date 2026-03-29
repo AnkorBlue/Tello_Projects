@@ -7,6 +7,7 @@ import threading
 import queue
 import numpy as np
 
+
 SPEED = 60
 SEND_HZ = 30
 FRAME_QUEUE_MAXSIZE = 2
