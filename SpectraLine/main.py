@@ -6,6 +6,7 @@ import time
 import os
 from djitellopy import Tello
 
+
 # ================= CONFIGURAÇÕES =================
 WIDTH, HEIGHT = 854, 480
 CAM_W, CAM_H = 427, 480
