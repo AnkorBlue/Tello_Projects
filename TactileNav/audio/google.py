@@ -1,5 +1,6 @@
 import speech_recognition as sr
 
+
 def extrair_locais(texto):
     """
     Função responsável por interpretar o texto falado.
