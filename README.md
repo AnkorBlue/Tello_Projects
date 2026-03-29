@@ -4,6 +4,7 @@ Este projeto utiliza o drone DJI Tello e a biblioteca OpenCV para realizar o seg
 
 ---
 
+
 ##  Requisitos
 
 Para rodar este sistema, você precisará instalar as seguintes bibliotecas Python:
